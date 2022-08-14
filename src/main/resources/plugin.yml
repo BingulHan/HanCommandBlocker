@@ -1,0 +1,8 @@
+name: HanCommandBlocker
+version: '${project.version}'
+main: online.bingulhan.commandblocker.CommandBlocker
+authors: [ BingulHan ]
+commands:
+  cb:
+    description: Main command
+    aliases: ["commandblocker"]

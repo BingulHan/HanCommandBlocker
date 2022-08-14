@@ -1,0 +1,14 @@
+message: "&e> &aCommands: "
+bypass-permission: "cb.bypass"
+commands:
+  - warp
+  - kits
+  - kit
+  - ada
+  - ihale
+  - ah
+  - siralama
+  - yetenek
+  - skill
+  - shop
+  - market
